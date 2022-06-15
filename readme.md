@@ -1,9 +1,5 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
-
-### <div align="center">Hi, My name is Anirudh S.
+### <div align="center">
+Hi, My name is Anirudh S.
 I am an undergraduate studying at VIT Chennai
 I am interested in Game Development and Web Development
 </div>  
