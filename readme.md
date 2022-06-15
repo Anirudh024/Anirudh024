@@ -7,11 +7,6 @@
 I am an undergraduate studying at VIT Chennai
 I am interested in Game Development and Web Development
 </div>  
-  
-
--   
-  
-
 <br/>  
 
 
