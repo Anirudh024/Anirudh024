@@ -1,7 +1,6 @@
 ### <div align="center">
-Hi, My name is Anirudh S.
-I am an undergraduate studying at VIT Chennai
-I am interested in Game Development and Web Development
+Software Engineer skilled in programming, algorithms, and relational databases, with a strong attention to detail. Passionate about building 
+scalable applications and eager to contribute to a dynamic engineering team.
 </div>  
 <br/>  
 
